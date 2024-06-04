@@ -1,0 +1,3 @@
+[submodule "AllService_Mobile"]
+	path = AllService_Mobile
+	url = https://github.com/MikhailKostyrya/AllService_Mobile
